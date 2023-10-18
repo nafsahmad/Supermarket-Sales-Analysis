@@ -3,7 +3,9 @@
 ## Analyzing Customer Behavior and Sales Performance at a Supermarket
 
 ### Introduction:
-This case study explores the business operations and customer behavior at a supermarket. The supermarket has three branches (A, B, and C) located in different cities and offers a wide range of products, including electronic accessories, fashion accessories, food and beverages, health and beauty, home and lifestyle, sports and travel. The study focuses on sales data from January 2019 to March 2019(3 months).
+This case study explores the business operations and customer behavior at a supermarket. The supermarket has three branches (A, B, and C) located in different cities and offers a wide range of products, including electronic accessories, fashion accessories, food and beverages, health and beauty, home and lifestyle, sports and travel. The study focuses on sales data from January 2019 to March 2019(3 months). 
+
+The dataset was gotten from [kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
 
 ### Objective:
 The primary objective of this case study is to gain insights into customer behavior, sales performance, and overall business operations to make data-driven decisions that can enhance the supermarket's profitability and customer satisfaction.
